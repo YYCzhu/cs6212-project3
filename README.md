@@ -5,7 +5,7 @@
 
 ## Project 3
 
-Shi Qiu, HaiDong Zheng, YiCheng Chu, Yiming Xu G26512274
+Shi Qiu G40344644, HaiDong Zheng, YiCheng Chu, Yiming Xu G26512274
 
 
 **Date: October 26, 2023**
